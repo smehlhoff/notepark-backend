@@ -1,0 +1,6 @@
+-r base.txt
+
+boto3==1.10.39
+django-storages==1.8
+raven==6.10.0
+zappa==0.48.2

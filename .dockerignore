@@ -1,0 +1,16 @@
+.idea
+.vscode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+docs/
+env/
+media/
+.coveragerc
+.dockerignore
+.env
+.gitattributes
+.gitignore
+docker-compose.yml
+Dockerfile
